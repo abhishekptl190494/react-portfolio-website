@@ -27,13 +27,13 @@ const About = () => {
           <article className='about__card'>
             <FaAward className='about__icon'/>
             <h5>Experience</h5>
-            <small>2+ Years Working</small>
+            <small>4+ Years Working</small>
           </article>
 
           <article className='about__card'>
             <FiUsers className='about__icon'/>
-            <h5>Clients</h5>
-            <small>200+ Worldwide</small>
+            <h5>Job Experience</h5>
+            <small>2+ years</small>
           </article>
 
           <article className='about__card'>
@@ -44,7 +44,7 @@ const About = () => {
         </div>
 
         <p>
-        Software development professional with experience in developing and designing web applications using HTML, CSS, JavaScript, Python, Django, React, Typescript. Adept at developing and deploying complex backend systems, web services and databases with basic cloud knowledge of Docker and Kubernetes.
+        Software development professional with experience in developing and designing web applications using HTML, CSS, JavaScript, Python, Django, React, Typescript. Adept at developing and deploying complex backend systems, web services and databases with basic cloud knowledge of Docker and Kubernetes. I have experience as a Software Development in process management industry.
         </p>
 
         <a href="#contact" className='btn btn-primary'>Let's Talk</a>
