@@ -42,6 +42,10 @@ form {
 
 }
 
+.input-field::placeholder {
+    color: #ffffff; /* Change this to the desired color */
+  }
+
 input, textarea {
     width: 100%;
     padding: 1.5rem;

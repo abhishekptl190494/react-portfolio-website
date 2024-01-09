@@ -39,12 +39,14 @@ const About = () => {
           <article className='about__card'>
             <VscFolderLibrary className='about__icon'/>
             <h5>Projects</h5>
-            <small>30+ Completed</small>
+            <small>20+ Completed</small>
           </article>
         </div>
 
         <p>
+        <b>
         Software development professional with experience in developing and designing web applications using HTML, CSS, JavaScript, Python, Django, React, Typescript. Adept at developing and deploying complex backend systems, web services and databases with basic cloud knowledge of Docker and Kubernetes. I have experience as a Software Development in process management industry.
+        </b>
         </p>
 
         <a href="#contact" className='btn btn-primary'>Let's Talk</a>
